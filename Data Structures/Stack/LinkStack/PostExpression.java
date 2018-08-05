@@ -1,5 +1,9 @@
 package LinkStack;
-//表达式计算问题
+/*表达式计算问题
+    1.把中缀表达式变换成相应的后缀表达式；
+    2.根据后缀表达式计算表达式的值
+*/
+
 public class PostExpression {
     public static void postExp(LinkStack s) throws Exception{
         char ch;
