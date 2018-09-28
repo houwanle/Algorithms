@@ -18,17 +18,21 @@ public class QuickSort {
     }
 
     public static void quickSort(int[] arrays, int L, int R){
-        int i = L;
-        int j = R;
-        int p = arrays[(L+R)/2];
-         while(i <= j){
+        int i = L;//指向数组第一个元素
+        int j = R;//指向数组最后一个元素
+        int p = arrays[(L+R)/2];//支点
+        //左右两端进行扫描，只要两端还没有交替，就一直扫描
+        while(i <= j){
+             //寻找直到比支点大的数
              while(p > arrays[i]){
                  i++;
              }
+             //寻找直到比支点小的数
              while(p < arrays[j]){
                  j--;
              }
 
+             //此时已经分别找到了比支点小的数(右边）、比支点大的数(左边)，它们进行交换
              if(i <= j){
                  int temp = arrays[i];
                  arrays[i] = arrays[j];
@@ -37,9 +41,11 @@ public class QuickSort {
                  j--;
              }
          }
+         //“左边"再做排序，直到左边剩下一个数(递归出口）
          if(L < j){
              quickSort(arrays,L,j);
          }
+         //"右边“再做排序，直到右边剩下一个数(递归出口）
          if(i < R){
              quickSort(arrays,i,R);
          }
