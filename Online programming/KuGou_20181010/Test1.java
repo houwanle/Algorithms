@@ -45,3 +45,28 @@ public class Test {
 		}
 	}
 }
+
+=====================================================================================================================
+
+方法二：
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+public class Test8 {    
+	public static void main(String[] args) throws IOException {        
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));        
+		char[] strArr = br.readLine().toCharArray();//String类型转化为字符数组        
+		int[] count = new int[128];//存储每个字符        
+		for (int i = 0; i < strArr.length; i++) {            
+			if (('A' <= strArr[i] && strArr[i] <= 'Z') || 
+					(strArr[i] >= 'a' && strArr[i] <= 'z')||
+					(strArr[i]>='0' && strArr[i]<='9')) {                
+				++count[strArr[i]];//针对每个字符进行计数                
+				if(count[strArr[i]] == 3){                    
+					System.out.println(strArr[i]);                    
+					break;                
+				}            
+			}        
+		}      
+	}
+}
