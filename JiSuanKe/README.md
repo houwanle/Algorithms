@@ -3,3 +3,4 @@
 - [整除问题](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/Test2.java)
 - [判断质数](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/Test3.java)
 - [简单斐波拉契](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/Test4.java)
+- [矩阵翻转](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/Test5.java)
