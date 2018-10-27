@@ -12,3 +12,5 @@
 11. [最后一个单词的长度](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test11.java)
 12. [整数转换成罗马数字](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test12.java)
 13. [罗马数字转换成整数](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test13.java)
+14. [单独的数字](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test14.java)
+15. [爬楼梯](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test15.java)
