@@ -15,3 +15,5 @@
 14. [单独的数字](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test14.java)
 15. [爬楼梯](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test15.java)
 16. [X的平方根](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test16.java)
+17. [跳跃游戏一](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test17.java)
+18. [加一](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test18.java)
