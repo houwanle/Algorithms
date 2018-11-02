@@ -19,3 +19,5 @@
 18. [加一](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test18.java)
 19. [跳跃游戏二](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test19.java)
 20. [最大子阵列](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test20.java)
+21. [排序后的数组删除重复数字](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test21.java)
+22. [计数和数数](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test21.java)
