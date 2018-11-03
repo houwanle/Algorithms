@@ -21,3 +21,5 @@
 20. [最大子阵列](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test20.java)
 21. [排序后的数组删除重复数字](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test21.java)
 22. [计数和数数](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test22.java)
+23. [函数规律](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test23.java)
+24. [两数之和](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test24.java)
