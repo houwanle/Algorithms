@@ -23,5 +23,6 @@
 22. [计数和数数](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test22.java)
 23. [函数规律](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test23.java)
 24. [两数之和](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test24.java)
+25. [等差数列]
 26. [三值排序](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test26.java)
 27. [等和的分隔子集](https://github.com/houwanle/Algorithms/blob/master/JiSuanKe/SRC/Test27.java)
